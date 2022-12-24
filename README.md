@@ -4,7 +4,7 @@ Système de contrôle, sans rétroaction, exécutant un déplacement tridimensio
 # Images
 <img src="Images/Image1.jpg" width="200"> <img src="Images/Image2.jpg" width="400"> <img src="Images/Image3.jpg" width="400">
 
-# Contrôle :
+# Contrôles :
 
 ## « 1,2,3,4 » 
 - Pour sélectionner le moteur que vous souhaitez contrôler.
