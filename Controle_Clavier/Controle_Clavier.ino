@@ -1,12 +1,4 @@
-/* 
-Fichier : Controle_Clavier.ino
-Auteur  : Rajith Rajathurai
-Date    : 8 semptembre 2022
-Titre   : TP1 - Robot 3D
-But(s) du laboratoire:  Se familiariser avec les boucles de controle utilisant
-                        la fonction Servo pour servomoteur.
-*/
-#include <Servo.h> // Librairie nÃ©cessaire pour les instructions du servo moteur
+#include <Servo.h>
 
 int Key; int CurrentServo; int Delay = 20;
 
